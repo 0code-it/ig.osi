@@ -1,2 +1,2 @@
-# if.osi
+# ig.osi
 Termux
